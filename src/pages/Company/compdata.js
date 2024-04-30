@@ -59,6 +59,31 @@ export const compdata = [
           img={rashmi}
           link="https://www.linkedin.com/in/rashmi-singh-5610b31b9/"
         />
+        <Mentors
+          name="Vanshika Rathi"
+          img={rohit}
+          link="https://www.linkedin.com/in/vanshika-rathi-508a211a9/"
+        />
+        <Mentors
+          name="Vanshika Singh"
+          img={rohit}
+          link="https://www.linkedin.com/in/vanshika-singh-56495b1b7/"
+        />
+        <Mentors
+          name="Anupam Pratap Singh"
+          img={rohit}
+          link="https://www.linkedin.com/in/anupam-pratap-singh-113b631b0?utm"
+        />
+        <Mentors
+          name="Anirudh Gupta"
+          img={rohit}
+          link="https://www.linkedin.com/in/anirudh-guptaa?"
+        />
+        <Mentors
+          name="Dharmendra Niranjan "
+          img={rohit}
+          link="https://www.linkedin.com/in/dharmendra-niranjan-910174190?"
+        />
       </div>
     ),
     company: "Cisco",
